@@ -1,0 +1,393 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    background-color:green;
+    height: 83.2px;
+}
+.content-header1{
+    display: flex;
+    
+
+    height: 34px;
+    /* width: 100%; */
+    margin-left: 1rem; 
+    margin-right: 1rem; 
+    background-color:white;
+    justify-content: space-between;
+
+}
+
+
+
+    
+    .header1-left{
+        width: 16.7rem;
+        height: 34px;
+        margin-left: 4rem;
+        
+        background-color: white;
+        display: flex;
+        justify-content:space-around ;
+        align-items: center;
+    }
+    .logo{
+        color:white;
+    }
+    .header1-right{
+        display: flex;
+        color: #4d4d4d;;
+        align-items: center;
+        background-color: white;
+        margin-right: 4rem;
+        font-size: 0.9rem;
+    }   
+
+@media (max-width:1025px){
+    .content-header1{
+        display: none;
+    }
+    .header1-left{
+        display: none;
+    }
+    .header1-right{
+        display: none;
+    }
+
+}
+.header1a{
+    height: 34px;
+    /* width: 100%; */
+    margin-left: 1rem; 
+    margin-right: 1rem; 
+    background-color:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header1a-right{
+    width: 4rem;
+    background-color:white;
+    display: flex;
+}
+.img2{
+    margin-left: 1rem;
+}
+.header1a-left{
+    margin-left: 0.7rem;
+}
+@media (min-width:1025px){
+    .header1a{
+        display: none;
+    }
+    .header1a-left{
+        display: none;
+    }
+    .header1a-right{
+        display: none;
+    }
+    .asus-logo{
+        display: none;
+    }
+    
+}
+/* .hero-img{
+     width: 100%;
+    height: auto; 
+
+} */
+
+.hero-img1 img{
+    width: 100%;
+    height: auto; 
+}
+.hero2-img1 img{
+    width: 100%;
+    height: auto;
+}
+@media (max-width:769px){
+    .hero-img1{
+        display: none;
+    }
+    .hero2-img1{
+        display: none;
+    }
+    
+    
+}
+.hero-img2  img{
+    width: 100%;
+    height: auto;
+}
+.hero2-img2 img{
+    width: 100%;
+    height: auto;
+}
+
+
+@media(min-width:769px){
+    .hero-img2{
+        display: none;
+    }
+    .hero2-img2{
+        display: none;
+    }
+} 
+.section3-img1{
+    width: 100%;
+    display: flex;
+    /* background-color: red; */
+} 
+.hero-section3 img{
+    width: 100%;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+@media (max-width:769px){
+    
+    .grid{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    
+    }
+    .section4-img1{
+        display: none;
+    }  
+    .section5-img1{
+        display: none;
+    }  
+    .section6-img1{
+        display: none;
+    }  
+    .section7-img1{
+        display: none;
+    }  
+} 
+@media (min-width:769px){
+    .section4-img2{
+        display: none;
+    }
+    .section5-img2{
+        display: none;
+    }
+    .section6-img2{
+        display: none;
+    }
+    .section7-img2{
+        display: none;
+    }
+    .hero-section8{
+        display: none;
+    }
+    .hero-section9{
+        display: none;
+    }
+    .hero-section10{
+        display: none;
+    }
+}
+.detail img,.detail2 img,.detail3 img,.detail4 img{
+    width: 1.5rem;
+}
+.footer1{
+    display: grid;
+    display: flex;
+    justify-content: space-between;
+    
+    grid-template-columns: repeat(4,1fr);
+}
+.detail p,.detail2 p,.detail3 p,.detail4 p{
+    font-size: 0.9rem;
+}
+#p1,#p2,#p3,#p4{
+    font-size: 1.3rem;
+    font-weight: 900;
+}
+body {
+    font-family: Arial, sans-serif;
+}
+
+footer {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-top: 1px solid #ccc;
+}
+
+.footer-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    /* max-width: 1200px; */
+    width: 100%;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.footer-info h4 {
+    margin: 0 0 5px;
+    font-size: 18px;
+}
+
+.footer-info p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-links div {
+    flex: 1;
+    padding: 0 20px;
+}
+
+.footer-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-links li {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.footer-links strong {
+    font-size: 16px;
+    color: #000;
+}
+
+.footer-links li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+@media (max-width:426px){
+    .footer-container{
+        display: none;
+    }
+}
+.cont2-1frame{
+    display: flex;
+    margin-top: 1rem;
+
+}
+.cont2-1frame img{
+    height: 2rem;
+    margin-right:1rem ;
+}
+@media (min-width:426px){
+    .footer-container2{
+        display: none;
+
+    }
+    
+}
+.details{
+    width: 100%;
+    /* height: 2.5rem; */
+    min-height: 2.5rem;
+    background-color: rgb(239, 229, 229);
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+
+}
+.details ul{
+    margin: 1rem;
+}
+.details ul li{
+    margin: 0.7rem;
+}
+summary{
+    list-style-type: none;
+}
+@media (min-width:426px){
+    .details{
+        display: none;
+    }
+    
+}
+.footer3-img{
+    
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    margin: 2rem;
+    gap: 1rem;
+    
+}
+@media (max-width:426px){
+    .footer3-img{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+    }
+}
+.footer3 img {
+    width: 35px;
+    height: auto;
+     
+}
+.footer3 svg{
+    width: 40px;
+    height: auto;
+}
+.footer4{
+    display: grid; 
+     /* grid-template-rows: 2;  */
+}
+.footer4a{
+    display: flex;
+    margin-top: 0.5rem;
+
+}
+.footer4 a{
+    /* background-color: red; */
+    color: black;
+    margin-right: 1.5rem;
+}
+#footer4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer4-3{
+    margin-left: 1rem;
+}
+#vl{
+    height: 100%;
+    border:1px solid black
+
+}
+@media(min-width:426px){
+    .footer4{
+        /* display: grid; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .footer4a{
+        margin-left: 2rem;
+        padding-bottom: .5rem; 
+    }
+}
+.credit {
+    font-size: 1rem;
+    font-style:italic;
+    background-color: rgba(239, 249, 252, 0.9);
+    /* background-color: red; */
+}

@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="study.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content-header1">
+            <div class="header1-left">
+                <div class="logo">
+                    <img src="https://www.asus.com/media/Odin/images/header/ROG_normal.svg">
+                </div>
+                <div class="proart">
+                    <img src="https://www.asus.com/media/Odin/images/header/ProArt_normal.svg">
+                </div>
+                <div class="asus">
+                    <img src="https://www.asus.com/media/Odin/images/header/IoT_normal.svg
+                    ">
+                </div>
+            </div>
+            <div class="header1-right">
+                <span>Gaming</span>
+            </div>
+        </div>
+        <div class="header1a">
+
+        
+            <div class="header1a-left">
+                <img src="https://dlcdnimgs.asus.com/images/icon/header_hamburger_light_normal.svg">
+            </div>
+            <div class="asus-logo">
+                <img src="https://dlcdnimgs.asus.com/images/logo/logo-002.svg">
+            </div>
+            <div class="header1a-right">
+                <div class="img1">
+                    <img src="https://dlcdnimgs.asus.com/images/icon/header_search_light_hover.svg">
+                </div>
+                <div class="img2">
+                    <img src="https://dlcdnimgs.asus.com/images/icon/header_cart_light_normal.svg">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hero-section1">
+        <div class="hero-img1">
+            <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/DT/Post_2500x750_01.webp" >
+        </div>
+        <div class="hero-img2">
+            <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/APP/Preorder_500x600_01.webp
+            ">
+        </div>
+    </div>
+    <div class="hero-section2">
+        <div class="hero2-img1">
+            <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/DT/Post_2500x750_02.webp">
+        </div>
+        <div class="hero2-img2">
+            <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/APP/Preorder_500x600_02.webp">
+        </div>
+    </div>
+    <div class="hero-section3">
+        <!-- <div class="section3-img1"> -->
+            <!-- <div class="hero3-img1">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/4.webp">
+            </div>
+            <div class="hero3-img2">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/5.webp">
+            </div>
+            <div class="hero3-img3">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/6.webp">
+            </div>
+            <div class="hero3-img4">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/7.webp">
+            </div>
+        </div> -->
+        <div class="grid">
+            <div class="g-img1">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/4.webp">
+            </div>
+            <div class="g-img2">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/5.webp">
+            </div>
+            <div class="g-img3">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/6.webp">
+            </div>
+            <div class="g-img4">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/7.webp">
+            </div>
+
+        </div>
+        <div class="hero-section4">
+            <div class="section4-img1">
+
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/9.webp">
+            </div>
+            <div class="section4-img2">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/9.webp">
+            </div>
+        </div>
+        <div class="hero-section5">
+            <div class="section5-img1">
+            <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/12.webp">
+            </div>
+            <div class="section5-img2">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/10.webp">
+            </div>
+        </div>
+        <div class="hero-section6">
+            <div class="section6-img1">
+            <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/DT/13.webp">
+            </div>
+            <div class="section6-img2">
+                <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/11.webp">
+            </div>
+        </div>
+        <div class="hero-section8">
+            <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/12.webp">
+        </div>
+        <div class="hero-section9">
+            <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/13.webp">
+        </div>
+        <div class="hero-section10">
+            <img src="https://mediawebimg.asus.com/files/media/fbabf6fb-ff54-476a-9b48-1586da6a46a0/images/UX5406/APP/14.webp">
+        </div>
+        <div class="hero-section7">
+            <div class="section7-img1">
+            <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/DT/Post_2500x750_07.webp">
+            </div>
+            <div class="section7-img2">
+                <img src="https://mediawebimg.asus.com/files/media/f75b9555-478b-45ca-b892-853a90c1b21c/images/UX5406/APP/Preorder_500x600_11.webp">
+            </div>
+        </div>
+        <!-- <div class="footer1">
+            <div class="detail">
+                <div class="free-shipping">
+                    <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113532.svg">
+                    <p id="p1">
+                        Free Shipping
+                    </p>
+                    <p>
+                        Free Shipping on all products available on eShop
+                    </p>
+                </div>
+            </div>
+            <div class="detail2">
+                <div class="return">
+                    <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113757.svg">
+                    <p id="p2">
+                        Easy Return
+                    </p>
+                    <p>
+                        7-days hassle free return
+                    </p>
+                </div>
+            </div>
+            <div class="detail3">
+                <div class="free-shipping">
+                    <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113532.svg">
+                    <p id="p3">
+                        Safe and Secure Payments
+                    </p>
+                    <p>
+                        Secure encryption for all transactions*
+                    </p>
+                </div>
+            </div>
+            <div class="detail4">
+                <div class="free-shipping">
+                    <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113532.svg">
+                    <p id="p4">
+                        Customer Support
+                    </p>
+                    <p>
+                        Need help? Contact us directly*
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="footer2">
+            .
+        </div> -->
+        <footer>
+            <div class="footer-container">
+                <div class="footer-info">
+                    <div class="shipping">
+                        <h4>Free Shipping</h4>
+                        <p>Free shipping on all products available on eShop*</p>
+                    </div>
+                    <div class="returns">
+                        <h4>Easy Returns</h4>
+                        <p>7-days hassle free return</p>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <div>
+                        <h4>Shop and Learn</h4>
+                        <ul>
+                            <li><strong>Mobile / Handhelds</strong></li>
+                            <li>Phone</li>
+                        </ul>
+                        <ul>
+                            <li><strong>Laptops</strong></li>
+                            <li>For Home</li>
+                            <li>For Work</li>
+                            <li>For Creators</li>
+                            <li>For Students</li>
+                            <li>For Gaming</li>
+                        </ul>
+                        <ul>
+                            <li><strong>Desktop / Displays</strong></li>
+                            <li>Gaming Tower PCs</li>
+                            <li>All-in-One PCs</li>
+                            <li>Monitors</li>
+                            <li>Mini PCs</li>
+                            <li>Workstations</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                            <li><strong>Motherboards / Components</strong></li>
+                            <li>Motherboards</li>
+                            <li>Graphics Cards</li>
+                        </ul>
+                        <ul>
+                            <li><strong>Gaming</strong></li>
+                            <li>Gaming Case</li>
+                            <li>Cooling</li>
+                            <li>Power Supply Units</li>
+                            <li>Sound Cards</li>
+                            <li>Optical Drives</li>
+                            <li>Data Storage</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <ul>
+                            <li><strong>Networking / IoT / Servers</strong></li>
+                            <li>WiFi 6</li>
+                            <li>WiFi Routers</li>
+                            <li>Whole Home Mesh WiFi System</li>
+                            <li>AIoT & Industrial Solution</li>
+                        </ul>
+                        <ul>
+                            <li><strong>Accessories</strong></li>
+                            <li>Keyboards</li>
+                            <li>Mice and Mouse Pads</li>
+                            <li>Headsets and Audio</li>
+                            <li>Bags</li>
+                            <li>Adapters and Chargers</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-container2">
+                <div class="cont2-1frame">
+                    <div class="cont2-img1">
+                        <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113532.svg">
+                    </div>
+                    <div>
+                    <h4>
+                        Free Shipping
+                    </h4>
+                    <p>Free shipping on all products available on eShop</p>
+                    </div>
+                </div>
+                <div class="cont2-1frame">
+                    <div class="cont2-img2">
+                        <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113757.svg">
+                    </div>
+                    <div>
+                    <h4>
+                        Easy Return
+                    </h4>
+                    <p>7-days hassle free return</p>
+                    </div>
+                </div>
+                <div class="cont2-1frame">
+                    <div class="cont2-img3">
+                        <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113808.svg">
+                    </div>
+                    <div>
+                    <h4>
+                        Safe and Secure Payments
+                    </h4>
+                    <p>Secure encryption for all transactions*</p>
+                    </div>
+                </div>
+                <div class="cont2-1frame">
+                    <div class="cont2-img4">
+                        <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20220412113816.svg">
+                    </div>
+                    <div>
+                    <h4>
+                        Coustomer Support
+                    </h4>
+                    <p>Need help? Contact us directly*</p>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <footer2>
+            <hr>
+            <div class="details">
+                <details>
+                    <summary><strong>Shop and learn</strong></summary>
+                    <p><div>
+                        
+                        <ul>
+                            <li><strong>Mobile / Handhelds</strong></li>
+                            <li>Phone</li>
+                        </ul>
+                        <ul>
+                            <li><strong>Laptops</strong></li>
+                            <li>For Home</li>
+                            <li>For Work</li>
+                            <li>For Creators</li>
+                            <li>For Students</li>
+                            <li>For Gaming</li>
+                        </ul>
+                        
+                    </div></p>
+                </details>
+            </div>
+            <hr>
+            <div class="details">
+                <details>
+                    <summary><strong>Learn More</strong></summary>
+                    <p><div>
+                        
+                       
+                        <ul>
+                            <li>Asus design center</li>
+                            <li>ASUSPRO</li>
+                            <li>Automotive Solution</li>
+                            <li>Asus blog</li>
+                            <li>Product Guide</li>
+                            <li>Avc licensing notice</li>
+                        </ul>
+                        
+                    </div></p>
+                </details>
+            </div>
+            <hr>
+            <div class="details">
+                <details>
+                    <summary><strong>Support</strong></summary>
+                    <p><div>
+                        
+                       
+                        <ul>
+                            <li>Check reapair status</li>
+                            <li>Find service location</li>
+                            <li>Automotive Solution</li>
+                            <li>Asus Support videos</li>
+                            <li>MyAsus</li>
+                            <li>4a Guarantee</li>
+                        </ul>
+                        
+                    </div></p>
+                </details>
+            </div>
+            <hr>
+            <div class="details">
+                <details>
+                    <summary><strong>About Us</strong></summary>
+                    <p><div>
+                        
+                       
+                        <ul>
+                            <li>About ASUS</li>
+                            <li>ASUSPRO</li>
+                            <li>Automotive Solution</li>
+                            <li>Asus blog</li>
+                            <li>Daksh Rana</li>
+                            <li>Email:dakshrana724@gmail.com</li>
+                        </ul>
+                        
+                    </div></p>
+                </details>
+            </div>
+        </footer2>
+        <div class="footer3">
+            <div class="footer3-img">
+
+            
+            <img src="/project/icons/facebook.svg">
+            <img src="/project/icons/instagram.svg">
+            <img src="/project/icons/youtube.svg">
+            <img src="/project/icons/x.svg">
+            
+            <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" svg-inline="" aria-hidden="true" role="presentation" focusable="false" tabindex="-1" class="Footer__communityListIcon__1zeIE Footer__iconRog__3yriN"><g clip-path="url(#clip0_1108_16072)"><path d="M22.992 69.525l6.383 6.593h-5.517l-8.424-8.672h7.902V64.08h-8.602v12.048H10V62h17.951v7.525h-4.96zm12.066 6.593h13.93V62H31.261v10.227l3.796 3.89zm.867-12.038h8.4v9.969h-5.743l-2.657-2.723V64.08zm29.412 4.352H70v7.686H52.203V62h18.485l-1.981 2.08H56.96v9.969h8.376v-5.617z" fill="#818181"></path></g><path d="M52 12.413h-5.665c-1.992 0-2.404.762-2.404 2.666v4.604H52l-.79 8.095h-7.313V52H33.459V27.873H28v-8.159h5.46v-6.476C33.46 7.175 36.995 4 44.754 4H52v8.413z" fill="#818181"></path><defs><clipPath id="clip0_1108_16072"><path fill="#fff" transform="translate(10 62)" d="M0 0h60v14.118H0z"></path></clipPath></defs></svg>
+            
+            <img src="https://www.asus.com/media/Odin/Websites/in/Menu/20230731025714.svg">
+
+            <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" svg-inline="" aria-hidden="true" role="presentation" focusable="false" tabindex="-1" class="Footer__communityListIcon__1zeIE Footer__iconRog__3yriN"><g clip-path="url(#clip0_1108_16101)"><path d="M62.996 16.33a6.032 6.032 0 00-4.243-4.27C55 11.05 40 11.05 40 11.05s-15 0-18.753 1.01a6.033 6.033 0 00-4.243 4.27C16 20.1 16 27.96 16 27.96s0 7.86 1.004 11.628a6.033 6.033 0 004.243 4.271C25 44.87 40 44.87 40 44.87s15 0 18.753-1.01a6.033 6.033 0 004.243-4.27C64 35.818 64 27.958 64 27.958s0-7.86-1.004-11.629zM35.091 35.096V20.822l12.545 7.137-12.545 7.137z" fill="#818181"></path></g><g clip-path="url(#clip1_1108_16101)"><path d="M22.992 69.525l6.383 6.593h-5.517l-8.424-8.672h7.902V64.08h-8.602v12.048H10V62h17.951v7.525h-4.96zm12.066 6.593h13.93V62H31.261v10.227l3.796 3.89zm.867-12.038h8.4v9.969h-5.743l-2.657-2.723V64.08zm29.412 4.352H70v7.686H52.203V62h18.485l-1.981 2.08H56.96v9.969h8.376v-5.617z" fill="#818181"></path></g><defs><clipPath id="clip0_1108_16101"><path fill="#fff" transform="translate(16 11.05)" d="M0 0h48v33.818H0z"></path></clipPath><clipPath id="clip1_1108_16101"><path fill="#fff" transform="translate(10 62)" d="M0 0h60v14.118H0z"></path></clipPath></defs></svg>
+
+            <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg" svg-inline="" aria-hidden="true" role="presentation" focusable="false" tabindex="-1" class="Footer__communityListIcon__1zeIE Footer__iconRog__3yriN"><g clip-path="url(#clip0_1108_16088)" fill="#818181"><path d="M49.7 4H30.3C22.407 4 16 10.406 16 18.3v19.4C16 45.593 22.406 52 30.3 52h19.4C57.593 52 64 45.594 64 37.7V18.3C64 10.407 57.594 4 49.7 4zm9.473 33.744a9.473 9.473 0 01-9.474 9.474H30.301a9.472 9.472 0 01-9.474-9.474V18.346a9.473 9.473 0 019.474-9.474h19.398a9.473 9.473 0 019.474 9.474v19.398z"></path><path d="M39.954 15.594c-6.857 0-12.406 5.594-12.406 12.406s5.594 12.406 12.406 12.406S52.36 34.812 52.36 28 46.81 15.594 39.954 15.594zm0 20.03a7.566 7.566 0 01-7.58-7.579 7.567 7.567 0 017.58-7.579 7.566 7.566 0 017.579 7.58c.045 4.15-3.384 7.578-7.58 7.578zM52.406 18.662a2.977 2.977 0 100-5.955 2.977 2.977 0 000 5.955z"></path></g><g clip-path="url(#clip1_1108_16088)"><path d="M22.992 69.525l6.383 6.593h-5.517l-8.424-8.672h7.902V64.08h-8.602v12.048H10V62h17.951v7.525h-4.96zm12.066 6.593h13.93V62H31.261v10.227l3.796 3.89zm.867-12.038h8.4v9.969h-5.743l-2.657-2.723V64.08zm29.412 4.352H70v7.686H52.203V62h18.485l-1.981 2.08H56.96v9.969h8.376v-5.617z" fill="#818181"></path></g><defs><clipPath id="clip0_1108_16088"><path fill="#fff" transform="translate(16 4)" d="M0 0h48v48H0z"></path></clipPath><clipPath id="clip1_1108_16088"><path fill="#fff" transform="translate(10 62)" d="M0 0h60v14.118H0z"></path></clipPath></defs></svg>
+        </div>
+        </div>
+        <footer id="footer4">
+            <div class="footer4">
+                <div class="footer4-1">
+                  <span>ASUSTeK Computer Inc. All rights reserved</span>
+                </div>
+                <div class="footer4a">
+                    <div class="footer4-2">
+                        <a href="#">Term of use notice</a></div>
+                        <div id="vl"></div>
+                         <div class="footer4-3">
+                              <span>privacy policy</span>
+                             </div>
+                    
+                 </div>
+            </div>
+
+        </footer>
+        <div class="credit">
+            <span> Daksh Rana</span>
+            <!-- <span>Email:dakshrana724@gmail.com</span> -->
+        </div>
+    </div>
+</body>
+</html>
